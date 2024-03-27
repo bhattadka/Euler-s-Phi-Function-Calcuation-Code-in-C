@@ -6,7 +6,6 @@
 - HackerRank : https://www.hackerrank.com/profile/bhattadka
 - LeetCode: https://leetcode.com/kritikabhattad/
 - CodeChef: https://www.codechef.com/users/kritikabhattad
-- 
 
 <!---
 bhattadka/bhattadka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
