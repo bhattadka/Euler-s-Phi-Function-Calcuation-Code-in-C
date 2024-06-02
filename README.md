@@ -13,3 +13,7 @@ This C file contains the entire code for calculating Euler's Phi function. The p
 3. **Prime Check:** The `prime_no` function determines if a given number is prime.
 4. **Phi Function Calculation:** The `main` function calculates the value of Euler's Phi function using the prime factors and their powers. It also prints all numbers less than `n` that are relatively prime to `n`.
 
+### Outputs.pdf
+
+This pdf contains screenshots of output (Euler's Function value) for different numbers.
+This Euler's Function values thus calculated can be used in various cryptography algorithms.
